@@ -1,12 +1,21 @@
 # Music Releases
-Replace this readme with your own information about your project.
 
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+The first React project for the Technigo Bootcamp made with pair-programmaing. The task was to display recent music realases from an api using React and JavaScript.
 
-## The problem
+## Learning objectives
 
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
+- How to write React components
+- How to use .map to iterate over an array of data and mount many components
+- How to use React props to feed information to components
+- How to structure React projects into small chunks
+
+## Tech
+
+- HTML5
+- CSS3
+- React.js
+- JSX
 
 ## View it live
 
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+https://kajsabootin-muisc.netlify.com/
